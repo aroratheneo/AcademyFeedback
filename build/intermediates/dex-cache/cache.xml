@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-08fcf144b72ee41e62850ec4605263faed58435d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\pre-dexed\debug\classes-64eb24f3acf06d3685944d2cdaa8e4f01c5e1db0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Himanshu\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-fe0e41be30d5e51fd7cb21b4d172fe80da908553.jar" />
+    </item>
+    <item
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\pre-dexed\debug\classes-95ecde4fa7fe339a9251a9c38d9287eb08c3fb39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Himanshu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-c614922e35f03a23a2c7dd48d24273526f8ee0d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Academyfeedback\app\build\intermediates\pre-dexed\debug\classes-9c2a692d336edb6e27fbcc92b97999de52e24fe5.jar" />
+    </item>
+
+</items>
